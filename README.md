@@ -1,12 +1,11 @@
 # TrabalhoGB_Redes2_VitorPires
 ## Objetivo
 Desenvolver e aplicar os conceitos de codificação de canal e modulação digital estudados na disciplina de Redes de Computadores, analisando seu impacto na taxa de erro de bits (BER) e na eficiência espectral de sistemas de comunicação. Para isso, será levado em consideração:
-  • Gerar uma mensagem em ASCII e convertê-la em dados binários.
-  • Codificar de canal
-  • Duas técnicas de modulação digital
-  • Adição de ruído ao canal
-  • Demodulação e decodificação dos dados
-  • Cálculo da BER e comparação de desempenho entre os esquemas implementados (uso de gráficos)
+  - Gerar uma mensagem em ASCII e convertê-la em dados binários.- Codificar de canal
+  - Duas técnicas de modulação digital
+  - Adição de ruído ao canal
+  - Demodulação e decodificação dos dados
+  - Cálculo da BER e comparação de desempenho entre os esquemas implementados (uso de gráficos)
 ## Organização
 GB_Redes_de_Computadores.ipynb: Código fonte do trabalho disponibilizado em Jupyter Notebook.
 Documentos: Pasta com a apresentação do trabalho e documentação auxiliar.
